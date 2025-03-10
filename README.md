@@ -1,6 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
 # Name : HARISH.D
 # Reg no : 212224220034
+# DATE: 10/03/2025
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
